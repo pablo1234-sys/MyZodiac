@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyZodiac</string>
+    <string name="titulo_fecha">Fecha de nacimiento</string>
+    <string name="textoPorDefecto_fecha">dd/MM/yyyy</string>
+    <string name="texto_boton">Calcular</string>
+
+
+
+
+    <string name="texto_botonVolver">Volver</string>
+
+    <string name="errorCampoVacio">Campo vacío</string>
+    <string name="errorFormatoFecha">Formato de fecha no aceptado</string>
+
+    <string name="errorFechaNoExistente">Esa fecha no existe</string>
+    <string name="errorFechaFutura">La fecha de nacimiento es futura respecto al día actual</string>
+
+    <string-array name="arraySignoZodiaco">
+        <item>Aries</item>
+        <item>Tauro</item>
+        <item>Geminis</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Escorpio</item>
+        <item>Sagitario</item>
+        <item>Capricornio</item>
+        <item>Acuario</item>
+        <item>Piscis</item>
+    </string-array>
+
+    <string name="texto_Edad">Tienes %1$d años</string>
+
+</resources>
